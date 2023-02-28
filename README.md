@@ -12,7 +12,7 @@ capture any of their opponent's pieces loses.
 The full rules can be read *[here](https://en.wikipedia.org/wiki/Konane#Rules_and_gameplay)* or
 *[here](http://www.konanebrothers.com/How-to-Play.html)*, and *[here's](https://www.youtube.com/watch?v=09AAT29uaGE)* a nice video explaining the rules simply as well.
 
-Here's a (rather terse) version of the rules, though:
+Here's a (rather terse) version of the rules, though: ------------------------------
 
 
 ![Konane Board](pictures/board.jpg "Board")
